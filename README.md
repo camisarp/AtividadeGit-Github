@@ -6,7 +6,7 @@
   
 >  - Escolher o tema da atividade : **Bibliotecas e Frameworks**;
 >  - Criar um repositório no GitHub (Já criando o README.md);
->  - Copiar o endereço do repositório através do botão Clone ou download na página de seu projeto;
+>  - Copiar o endereço do repositório através do botão Clone or download na página de seu projeto;
 >  - No terminal navegue ao local que deseja e copiar o link do repositório criado e clonar para o pc;
 >  - Dentro dessa pasta abrir o terminal e iniciar um novo repositório do git;
 >  - No Vscode abrir essa pasta;
@@ -18,3 +18,7 @@
 >  - Fazem um commit explicando o que foi feito de forma sucinta (git commit);
 >  - Após o comite dar um push nas atualizações para o github (git push);
 >  - Copiar o link do repositório e colar na devolução da tarefa no classroom essa semana.
+
+<br><p align="center">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/84551213/161325409-aa5a54dc-f5b0-4a4e-b667-59d4dfd5443b.gif" width= "700px"/>
+</p>
